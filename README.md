@@ -53,4 +53,4 @@ Stops and removes the Docker container
 https://hub.docker.com/repository/docker/salalimos/bigdata1/general
 
 ### GITHUB
-(https://github.com/SalemWalaaEldin/Bigdata-Assignment1/tree/master)
+https://github.com/SalemWalaaEldin/Bigdata-Assignment1.git
